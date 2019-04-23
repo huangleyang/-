@@ -12,11 +12,8 @@ size属性返回结构的成员总数
 
 ```
 const map = new Map();
-
 map.set('foo', true); 
-
 map.set('bar', false);
-
 map.size // 2
 
 ```

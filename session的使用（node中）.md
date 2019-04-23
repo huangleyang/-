@@ -1,6 +1,6 @@
 # session的使用（node中）
 
-#### cookie和sessionhe local Storage 这些都是存在于域名下面 当发送请求给这个域名的时候 会将这些数据携带过去  实现状态的维持
+#### cookie和sessione local Storage 这些都是存在于域名下面 当发送请求给这个域名的时候 会将这些数据携带过去  实现状态的维持
 
 
 

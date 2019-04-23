@@ -165,7 +165,7 @@ $.ajax({
 
 ```
 header("Access-Control-Allow-Origin:*");
-	*是允许任何域来访问的(一般很少用，有安全问题)
+	*
 header("Access-Control-Allow-Origin:http//www.xixi.com");
 	这是指定的域可以访问
 ```
